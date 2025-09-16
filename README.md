@@ -1,24 +1,24 @@
 # Projeto de Interface Humano-Computador
 
-Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Interface Humano-Computador (CC8122) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](http://lattes.cnpq.br/6747210702910392) e Prof. Dr. [Plino Thomaz Aquino Junior](http://lattes.cnpq.br/6186413528999908).
+Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Interface Humano-Computador (CC8122) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel) e Prof. Dr. Plino Thomaz Aquino Junior.
 
-Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Título do TCC** sob orientação do Professor **Nome do Orientador** e desenvolvido pelos seguintes alunos:
+Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Eyetracking aplicado para propagandas** sob orientação do Professor **Victor Perrone de Lima Varela** e desenvolvido pelos seguintes alunos:
 
-- Nome Componente 1
-- Nome Componente 2
-- Nome Componente 3
+- Daniel Eiji Sato Yoshida (22.121.131-1)
+- Lucas Sombra do Nascimento (22.122.112-0)
+- Nathalia Saori Shimokawa (22.122.052-8)
 
 ## Conhecendo o problema
 
 Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
-- Apresente uma breve descrição.
-- Apresente o objetivo. 
-- Apresente o usuário final.
-- Apresente os principais benefícios para o usuários.
-- Apresente as funcionalidades.
-- Apresente as tecnologias e ferramentas computacionais utilizadas.
-- Apresente o contexto de uso.
-- O produto ou serviço prevê o desenvolvimento de interface? (Sim/Não)
+- **Descrição:**
+- **Objetivo:** O projeto tem como objetivo criar uma plataforma GUI de teste de propagandas pré-definidas e o monitoramento da íris da interação do usuário com páginas web, fornecendo métricas, utilizando tecnologias como o rastreamento ocular. 
+- **Usuário final:** Empresas que queiram estudar o gosto dos usuários e direcionar as propagandas com base nos resultados do estudo.
+- **Benefícios:** As empresas conseguem ser mais assertivas ao direcionar as propagandas dos seus produtos.
+- **Funcionalidades:** Relatórios com mapeamento baseados em dados coletados pelo eye-tracking. 
+- **Tecnologias e ferramentas computacionais utilizadas:** Eyetracking desevolvido em Python, relatórios, banco de dados para armazenar as propagandas e o resultado da pesquisa, interface para visualização dos resultados dos dados.
+- **Contexto de uso:** Refere-se à interação do usuário com uma plataforma web para o desenvolvimento de campanhas publicitárias, considerando diferentes setores do comércio.
+- **O produto ou serviço prevê o desenvolvimento de interface?** Sim
 
 ## Desenvolvimento
 - [Análise de Concorência](docs/2_concorencia.md)
