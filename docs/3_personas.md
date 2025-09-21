@@ -9,8 +9,7 @@
 ## Persona primaria 
 ### Roberto Carvalho, executivo ou gestor de marketing - *"Quero simplicidade e facilidade"* 
 
-
-<img alt="Persona_primaria.png" src="imagens/Personas/Persona_primaria.png" width="330" />
+<img alt="Persona_primaria.png" src="imagens/Personas/Persona_primaria.png" width="300"/>
 
 Roberto Carvalho tem 52 anos, é diretor de marketing de uma empresa de varejo e supervisiona campanhas publicitárias de diferentes canais. Ele valoriza tecnologia, mas prefere soluções que sejam práticas, confiáveis e fáceis de usar. No dia a dia, Roberto lida com muitas informações e decisões estratégicas, e por isso quer que as plataformas de análise de campanhas entreguem resultados claros e objetivos, sem exigir ajustes complexos ou relatórios demorados. Roberto gostaria de uma plataforma que fosse leve, acessível e sem burocracias, e que permitisse testar e analisar campanhas rapidamente, sem precisar instalar softwares ou configurar processos complicados. Ele costuma revisar métricas e resultados no final do dia ou durante momentos de planejamento estratégico. Ele sente a necessidade da simplificação e objetividade de resultados para uma análise rápida em meio ao cotidiano estressante e sobrecarregado.  
 
