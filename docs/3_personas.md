@@ -6,6 +6,13 @@
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
 - Apresnete apenas as personas primárias.
 
+### Carla Ribeiro, consumidora digital – *"quero praticidade e coisas que combinem comigo"*
+
+Carla Ribeiro tem 28 anos, trabalha como analista de marketing digital e faz compras online com frequência, principalmente de roupas e cosméticos. Ela gosta de explorar novidades em tecnologia, mas valoriza experiências simples e intuitivas.
+No dia a dia, Carla já lida com muita informação e, por isso, quer que os sites onde compra sejam rápidos, objetivos e que entendam o que ela gosta sem que ela precise perder tempo ajustando filtros ou respondendo questionários. Carla também é preocupada com privacidade. Ela só aceita ativar a câmera quando o site explica claramente o que será feito com os dados. Para ela, praticidade vem junto com transparência.
+Carla gostaria que o sistema fosse leve e funcionasse direto no navegador, sem precisar instalar nada ou fazer muitos ajustes. Ela costuma fazer compras em casa, no final do dia, quando está relaxada e com tempo para explorar os produtos. A experiência ideal para ela é aquela em que o site “parece entender” seu gosto e oferece opções alinhadas ao seu estilo logo de cara, com base no seu olhar e nas suas reações visuais.
+
+
 
 > **_NOTE:_**: Cada persona deve ter uma foto de rosto que a represente. Vocês podem utilizar esse [site](https://thispersondoesnotexist.com/) para gerar as fotos.
 
