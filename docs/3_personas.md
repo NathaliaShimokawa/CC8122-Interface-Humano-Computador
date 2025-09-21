@@ -5,6 +5,14 @@
 - Descreva as caracteristicas demográficas, comportamentais, psicográficas ou geográficas deste público alvo que o torna mais propenso a se interessar pelo que está sendo oferecido neste projeto ou serviço.
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
 - Apresnete apenas as personas primárias.
+  
+## Persona primaria 
+### Roberto Carvalho, executivo ou gestor de marketing - *"Quero simplicidade e facilidade"* 
+
+<img src="Persona_secundaria.png" alt="Persona secundaria" width="300">
+
+Roberto Carvalho tem 52 anos, é diretor de marketing de uma empresa de varejo e supervisiona campanhas publicitárias de diferentes canais. Ele valoriza tecnologia, mas prefere soluções que sejam práticas, confiáveis e fáceis de usar. No dia a dia, Roberto lida com muitas informações e decisões estratégicas, e por isso quer que as plataformas de análise de campanhas entreguem resultados claros e objetivos, sem exigir ajustes complexos ou relatórios demorados. Roberto gostaria de uma plataforma que fosse leve, acessível e sem burocracias, e que permitisse testar e analisar campanhas rapidamente, sem precisar instalar softwares ou configurar processos complicados. Ele costuma revisar métricas e resultados no final do dia ou durante momentos de planejamento estratégico. Ele sente a necessidade da simplificação e objetividade de resultados para uma análise rápida em meio ao cotidiano estressante e sobrecarregado.  
+
 
 ## Persona secundária
 ### Carla Ribeiro, consumidora digital – *"quero praticidade e coisas que combinem comigo"*
@@ -14,6 +22,9 @@
 Carla Ribeiro tem 28 anos, trabalha como analista de marketing digital e faz compras online com frequência, principalmente de roupas e cosméticos. Ela gosta de explorar novidades em tecnologia, mas valoriza experiências simples e intuitivas.
 No dia a dia, Carla já lida com muita informação e, por isso, quer que os sites onde compra sejam rápidos, objetivos e que entendam o que ela gosta sem que ela precise perder tempo ajustando filtros ou respondendo questionários. Carla também é preocupada com privacidade. Ela só aceita ativar a câmera quando o site explica claramente o que será feito com os dados. Para ela, praticidade vem junto com transparência.
 Carla gostaria que o sistema fosse leve e funcionasse direto no navegador, sem precisar instalar nada ou fazer muitos ajustes. Ela costuma fazer compras em casa, no final do dia, quando está relaxada e com tempo para explorar os produtos. A experiência ideal para ela é aquela em que o site “parece entender” seu gosto e oferece opções alinhadas ao seu estilo logo de cara, com base no seu olhar e nas suas reações visuais.
+
+
+
 
 
 
