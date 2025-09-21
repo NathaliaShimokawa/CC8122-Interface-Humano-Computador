@@ -9,7 +9,8 @@
 ## Persona primaria 
 ### Roberto Carvalho, executivo ou gestor de marketing - *"Quero simplicidade e facilidade"* 
 
-<img src="Persona_secundaria.png" alt="Persona secundaria" width="300">
+
+<img alt="Persona_primaria.png" src="imagens/Personas/Persona_primaria.png" width="330" />
 
 Roberto Carvalho tem 52 anos, é diretor de marketing de uma empresa de varejo e supervisiona campanhas publicitárias de diferentes canais. Ele valoriza tecnologia, mas prefere soluções que sejam práticas, confiáveis e fáceis de usar. No dia a dia, Roberto lida com muitas informações e decisões estratégicas, e por isso quer que as plataformas de análise de campanhas entreguem resultados claros e objetivos, sem exigir ajustes complexos ou relatórios demorados. Roberto gostaria de uma plataforma que fosse leve, acessível e sem burocracias, e que permitisse testar e analisar campanhas rapidamente, sem precisar instalar softwares ou configurar processos complicados. Ele costuma revisar métricas e resultados no final do dia ou durante momentos de planejamento estratégico. Ele sente a necessidade da simplificação e objetividade de resultados para uma análise rápida em meio ao cotidiano estressante e sobrecarregado.  
 
@@ -17,7 +18,9 @@ Roberto Carvalho tem 52 anos, é diretor de marketing de uma empresa de varejo e
 ## Persona secundária
 ### Carla Ribeiro, consumidora digital – *"quero praticidade e coisas que combinem comigo"*
 
-<img src="Persona_secundaria.png" alt="Persona secundaria" width="300">
+
+<img alt="Persona_secundaria.png" src="imagens/Personas/Persona_secundaria.png" width="300"/>
+
 
 Carla Ribeiro tem 28 anos, trabalha como analista de marketing digital e faz compras online com frequência, principalmente de roupas e cosméticos. Ela gosta de explorar novidades em tecnologia, mas valoriza experiências simples e intuitivas.
 No dia a dia, Carla já lida com muita informação e, por isso, quer que os sites onde compra sejam rápidos, objetivos e que entendam o que ela gosta sem que ela precise perder tempo ajustando filtros ou respondendo questionários. Carla também é preocupada com privacidade. Ela só aceita ativar a câmera quando o site explica claramente o que será feito com os dados. Para ela, praticidade vem junto com transparência.
