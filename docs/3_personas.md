@@ -39,6 +39,35 @@ Carla gostaria que o sistema fosse leve e funcionasse direto no navegador, sem p
 - Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
 - O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
 
+
+### Ambiente físico:
+- Local silencioso, sem ruídos, sem distrações visuais  
+- Boa iluminação  
+- Usuário a uma distância que seja possível enquadrá-lo na câmera  
+
+### Ambiente digital:
+- Navegador com permissão de câmera e cookies ativa  
+- Internet estável para envio e recebimento dos dados em tempo real  
+
+### Aspectos culturais e sociais:
+- O usuário está inserido numa lógica de consumo rápido e digital, onde decisões de compra são influenciadas por: estímulos visuais, personalização da experiência e recomendações baseadas em comportamento  
+- Forte presença do marketing direcionado, moldado por tendências globais, estética e influência de redes sociais
+- Valorização da experiência personalizada, com a ideia de que *a marca entende você*  
+
+### Quais informações o sistema deve guardar antes de iniciar a interação?
+- Detecção e validação do dispositivo com câmera ou webcam ativa
+- Permissão do usuário para uso da câmera e coleta de dados visuais  
+- Aceite da política de cookies e privacidade* 
+- Registro da sessão para fins analíticos (com dados anonimizados)  
+- Verificação da iluminação e posicionamento básico do usuário para garantir a eficácia do rastreamento ocular  
+
+### O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço?
+- O usuário está com o computador ligado, acessando um site de compras ou vitrine virtual 
+- Está de frente para a câmera, em um ambiente calmo e com boa iluminação  
+- O usuário tem intenção de explorar produtos ou realizar uma compra, mesmo que ainda esteja em processo de decisão  
+- O ambiente está propício para uma experiência imersiva, onde o sistema pode captar com precisão os movimentos dos olhos para personalizar a navegação  
+
+
 # Jornada do usuário
 
 - Criar uma narrativa para o o seu serviço ou poduto com o usuário.
