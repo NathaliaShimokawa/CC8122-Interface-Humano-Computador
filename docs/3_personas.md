@@ -34,7 +34,8 @@ Carla gostaria que o sistema fosse leve e funcionasse direto no navegador, sem p
 
 # Mapa de empatia
 
-![Mapa de empatia](imagens/empatia.png)
+<img alt="mapa_empatia.png" src="imagens/mapa_empatia.png" width="1100"/>
+
 
 - Determine o mapa de empatia[1] de pelo menos uma persona primária e uma sercundária.
   - O que o usuário vê: aqui estamos falando do ambiente visual em que o usuário se encontra. Ou seja, o que ele efetivamente enxerga, as pessoas e objetos que estão ao seu redor. Isso ajuda a entender o contexto em que o usuário está inserido e as influências visuais que está recebendo.
