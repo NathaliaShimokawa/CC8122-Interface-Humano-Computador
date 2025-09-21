@@ -6,6 +6,7 @@
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
 - Apresnete apenas as personas primárias.
 
+## Persona secundária
 ### Carla Ribeiro, consumidora digital – *"quero praticidade e coisas que combinem comigo"*
 
 <img src="Persona_secundaria.png" alt="Persona secundaria" width="300">
