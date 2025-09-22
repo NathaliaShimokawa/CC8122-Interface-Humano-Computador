@@ -1,10 +1,4 @@
 # Personas
-
-- Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
-- Determine qual o grupo específico de pessoas ou organizações para as quais este produto ou serviço é direcionado.
-- Descreva as caracteristicas demográficas, comportamentais, psicográficas ou geográficas deste público alvo que o torna mais propenso a se interessar pelo que está sendo oferecido neste projeto ou serviço.
-- Quais informações sobre o usuário o serviço ou poduto deve guardar?
-- Apresnete apenas as personas primárias.
   
 ## Persona primaria 
 ### Roberto Carvalho, executivo ou gestor de marketing - *"Quero simplicidade e facilidade"* 
@@ -48,12 +42,6 @@ Carla gostaria que o sistema fosse leve e funcionasse direto no navegador, sem p
 
 # Contexto de uso
 
-- Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
-- Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
-- Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
-- O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
-
-
 ### Ambiente físico:
 - Local silencioso, sem ruídos, sem distrações visuais  
 - Boa iluminação  
@@ -84,11 +72,33 @@ Carla gostaria que o sistema fosse leve e funcionasse direto no navegador, sem p
 
 # Jornada do usuário
 
-- Criar uma narrativa para o o seu serviço ou poduto com o usuário.
-- Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou poduto.
-  - Descreva o que acontece ou pode acontecer passo a passo
-  - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
+### Narrativa
 
+A empresa, enfrentando desafios para entender o comportamento visual dos consumidores no site, descobre o software de eyetracking como uma solução inovadora. Após analisar suas funcionalidades e benefícios, decide contratar o serviço.
+
+Logo após a adesão, a equipe técnica da empresa realiza a integração do sistema ao site de e-commerce. É feita uma configuração inicial, onde a empresa escolhe quais elementos quer monitorar, como: banners promocionais, produtos em destaque e menus de navegação.
+
+A equipe de marketing e design é treinada para utilizar o painel de controle da plataforma, onde poderão acompanhar os dados coletados em tempo real.
+
+### Como começa
+
+1. Com o sistema em funcionamento, os clientes (persona secundária) acessam o site normalmente e, ao consentirem com o uso da webcam, o sistema inicia o rastreamento ocular.  
+A câmera capta os pontos de foco do olhar do usuário, e o software começa a registrar dados visuais em tempo real, como: áreas de maior atenção (heatmaps), tempo de fixação nos elementos, padrões de navegação visual.
+
+2. A equipe da empresa começa a monitorar os relatórios visuais, observando padrões como: quais produtos atraem mais atenção, quais áreas estão sendo ignoradas comportamentos de cliques relacionados ao foco visual.
+
+3. Com o passar dos dias, os dados coletados geram insights valiosos. A equipe então realiza análises comparativas entre diferentes campanhas e versões do site, e toma decisões baseadas nesses dados, como: alterar o layout da página, reposicionar botões de chamada para ação, atualizar imagens promocionais e ajustar recomendações personalizadas. 
+
+4. Essas decisões são implementadas no site, e a equipe acompanha os resultados.  
+O software passa a ser utilizado como ferramenta de testes, avaliando o impacto direto das mudanças no comportamento visual e nas conversões.
+
+
+### Como termina
+
+- Com o uso contínuo, a empresa começa a ver resultados concretos: aumento no engajamento visual, mais cliques e maior taxa de conversão  
+- O software deixa de ser uma ferramenta experimental e passa a ser parte integrante da estratégia de marketing e UX
+- A empresa decide renovar a licença do software e expandir sua aplicação para novas áreas, como: campanhas em vídeo e redes sociais, testes de cartazes promocionais e aplicativos móveis  
+- Satisfeita com os resultados, a empresa indica o software para parceiros comerciais e outras áreas internas, consolidando sua confiança na solução
 
 
 
