@@ -1,6 +1,6 @@
 # Personas
   
-## Persona primaria 
+## Persona Primária 
 ### Roberto Carvalho, executivo ou gestor de marketing - *"Quero simplicidade e facilidade"* 
 
 <img alt="Persona_primaria.png" src="imagens/Personas/Persona_primaria.png" width="300"/>
@@ -8,7 +8,7 @@
 Roberto Carvalho tem 52 anos, é diretor de marketing de uma empresa de varejo e supervisiona campanhas publicitárias de diferentes canais. Ele valoriza tecnologia, mas prefere soluções que sejam práticas, confiáveis e fáceis de usar. No dia a dia, Roberto lida com muitas informações e decisões estratégicas, e por isso quer que as plataformas de análise de campanhas entreguem resultados claros e objetivos, sem exigir ajustes complexos ou relatórios demorados. Roberto gostaria de uma plataforma que fosse leve, acessível e sem burocracias, e que permitisse testar e analisar campanhas rapidamente, sem precisar instalar softwares ou configurar processos complicados. Ele costuma revisar métricas e resultados no final do dia ou durante momentos de planejamento estratégico. Ele sente a necessidade da simplificação e objetividade de resultados para uma análise rápida em meio ao cotidiano estressante e sobrecarregado.  
 
 
-## Persona secundária
+## Persona Secundária
 ### Carla Ribeiro, consumidora digital – *"quero praticidade e coisas que combinem comigo"*
 
 
@@ -19,12 +19,20 @@ Carla Ribeiro tem 28 anos, trabalha como analista de marketing digital e faz com
 No dia a dia, Carla já lida com muita informação e, por isso, quer que os sites onde compra sejam rápidos, objetivos e que entendam o que ela gosta sem que ela precise perder tempo ajustando filtros ou respondendo questionários. Carla também é preocupada com privacidade. Ela só aceita ativar a câmera quando o site explica claramente o que será feito com os dados. Para ela, praticidade vem junto com transparência.
 Carla gostaria que o sistema fosse leve e funcionasse direto no navegador, sem precisar instalar nada ou fazer muitos ajustes. Ela costuma fazer compras em casa, no final do dia, quando está relaxada e com tempo para explorar os produtos. A experiência ideal para ela é aquela em que o site “parece entender” seu gosto e oferece opções alinhadas ao seu estilo logo de cara, com base no seu olhar e nas suas reações visuais.
 
+## Persona Negativa
+### Cláudia Mendes, comerciante tradicional – *"prefiro o que já conheço e não quero depender de tecnologia complexa"*
 
 
+<img alt="Persona_negativa.png" src="imagens/Personas/Persona_negativa.png" width="300"/>
 
 
+Cláudia Mendes tem 59 anos, é proprietária de uma loja de roupas físicas há mais de três décadas e atende um público fiel no bairro onde está localizada. Ela tem pouca presença digital e não tem intenção de expandir seu negócio para o meio online. Usa o WhatsApp para atendimento pontual e, às vezes, posta no Instagram, mas sem regularidade.
+Cláudia valoriza o contato direto com os clientes, acredita no poder da vitrine bem montada e das promoções presenciais. Não se sente confortável com sistemas digitais que exigem cadastro, aprendizado técnico ou uso de câmeras. Para ela, tecnologias que envolvem rastreamento de comportamento ou coleta de dados são confusas e pouco confiáveis.
+Ela evita qualquer ferramenta que envolva instalação, configuração ou termos técnicos. Acha que esse tipo de solução pode funcionar para grandes empresas, mas não vê valor em aplicar esse tipo de análise no seu modelo de negócio. A experiência ideal para Cláudia é aquela em que ela não precisa depender de ferramentas novas, consegue resolver tudo pessoalmente ou com métodos que já domina. Ela considera que "o que sempre funcionou, continua funcionando."
 
-> **_NOTE:_**: Cada persona deve ter uma foto de rosto que a represente. Vocês podem utilizar esse [site](https://thispersondoesnotexist.com/) para gerar as fotos.
+
+---
+
 
 # Mapa de empatia
 
@@ -39,6 +47,10 @@ Carla gostaria que o sistema fosse leve e funcionasse direto no navegador, sem p
   Que tipo de serviço ou poduto mais agrada essa persona?
   - Dores: quando falamos sobre dores do usuário, estamos fazendo referência a quaisquer obstáculos, necessidades ou frustrações que o usuário possa experimentar ao tentar realizar uma tarefa ou alcançar um objetivo. Isso inclui, por exemplo, problemas de usabilidade, dificuldades de acesso ou outros desafios que podem afetar a experiência do usuário.
   - Ganhos: nesse caso estamos falando de quaisquer benefícios ou recompensas que o usuário possa experimentar ao utilizar o serviço ou poduto. Isso pode incluir economia de tempo ou facilidade de uso, por exemplo. Que desejos do usuário o serviço ou poduto satisfaz?
+
+
+---
+
 
 # Contexto de uso
 
@@ -59,7 +71,7 @@ Carla gostaria que o sistema fosse leve e funcionasse direto no navegador, sem p
 ### Quais informações o sistema deve guardar antes de iniciar a interação?
 - Detecção e validação do dispositivo com câmera ou webcam ativa
 - Permissão do usuário para uso da câmera e coleta de dados visuais  
-- Aceite da política de cookies e privacidade* 
+- Aceite da política de cookies e privacidade 
 - Registro da sessão para fins analíticos (com dados anonimizados)  
 - Verificação da iluminação e posicionamento básico do usuário para garantir a eficácia do rastreamento ocular  
 
@@ -68,6 +80,9 @@ Carla gostaria que o sistema fosse leve e funcionasse direto no navegador, sem p
 - Está de frente para a câmera, em um ambiente calmo e com boa iluminação  
 - O usuário tem intenção de explorar produtos ou realizar uma compra, mesmo que ainda esteja em processo de decisão  
 - O ambiente está propício para uma experiência imersiva, onde o sistema pode captar com precisão os movimentos dos olhos para personalizar a navegação  
+
+
+---
 
 
 # Jornada do usuário
