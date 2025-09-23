@@ -83,6 +83,8 @@ Para iniciantes, a plataforma pode parecer complexa devido à quantidade de mét
 </details>
 
 
+---
+
 
 # 2. Tobii Eye Tracker
 
@@ -168,5 +170,92 @@ A tecnologia exige calibração inicial e um ambiente controlado para resultados
 | Compatível com ferramentas de pesquisa e análise científica | Curva de aprendizado técnica |
 | Heatmaps, gaze plots e fixações ajudam a otimizar conteúdos visuais | Sensível à luz ambiente, posição do usuário e uso de óculos |
 | Ampla gama de modelos para diferentes públicos | Exige ambiente controlado e calibração manual |
+
+</details>
+
+
+---
+
+
+# 3. BubbleView
+
+<img alt="Logo_BubbleView.png" src="imagens/concorrentes/Logo_BubbleView.png" width="150"/>
+
+<details open>
+<summary><h3>1. Descrição</h3></summary>
+
+#### Descrição
+
+BubbleView é uma ferramenta desenvolvida para simular o comportamento de atenção visual de usuários com base em cliques, ao invés de rastreamento ocular físico. Ela apresenta uma imagem ou interface embaçada e os participantes revelam áreas nítidas clicando onde desejam "ver", simulando o foco da visão humana.
+
+A técnica tem sido amplamente utilizada em estudos acadêmicos e de UX como uma alternativa acessível ao eye tracking tradicional, oferecendo dados quantitativos sobre o interesse visual de forma remota e escalável.
+
+**Link oficial:** [BubbleView on MIT](https://www.mit.edu/~mital/bubbleview.html)
+
+<img alt="BubbleView_Example.gif" src="imagens/concorrentes/BubbleView_Example.gif" width="800"/>
+
+</details>
+
+<details>
+<summary><h3>2. Características e Funcionalidades</h3></summary>
+
+#### Características e Funcionalidades
+
+| Funcionalidade           | Descrição |
+|--------------------------|-----------|
+| Simulação de atenção visual | Participantes clicam para revelar partes de uma imagem borrada |
+| Geração de heatmaps       | Dados agregados são convertidos em mapas de calor visuais |
+| Interface experimental    | Altamente personalizável para testes A/B e estudos de UX |
+| Plataforma online         | Pode ser usado remotamente por participantes do estudo |
+| Alternativa ao eye tracking físico | Não requer hardware especializado |
+
+</details>
+
+<details>
+<summary><h3>3. Experiência do Usuário (UX)</h3></summary>
+
+#### Experiência do Usuário (UX)
+
+| Pontos Positivos                                      | Pontos Negativos |
+|-------------------------------------------------------|------------------|
+| Simples de usar em estudos remotos                    | Não simula perfeitamente o movimento ocular contínuo |
+| Ideal para testes rápidos de percepção visual         | Menos preciso do que eye tracking baseado em câmera |
+| Geração automática de heatmaps                       | Requer instruções claras para os participantes |
+| Compatível com diversos formatos de imagem            | Resultados podem variar com base no comportamento do usuário |
+
+</details>
+
+<details>
+<summary><h3>4. Preços e Modelos de Negócio</h3></summary>
+
+#### Preços e Modelos de Negócio
+
+##### Versões e Custos
+
+| Versão / Plataforma     | Custo               |
+|-------------------------|---------------------|
+| **Código aberto (MIT)** | Gratuito (para uso acadêmico) |
+| **Projetos personalizados** | Sob consulta (via parcerias com pesquisadores) |
+
+##### Limitações e Vantagens
+
+| Versão               | Limitações / Modelo                                       | Vantagens                                        |
+|----------------------|------------------------------------------------------------|--------------------------------------------------|
+| Open Source / Acadêmico | Requer configuração manual e conhecimento técnico        | Total controle sobre os dados e testes           |
+| Uso remoto com participantes | Pode ter ruído nos dados se não houver padronização | Ideal para estudos em larga escala sem hardware  |
+
+</details>
+
+<details>
+<summary><h3>5. Pontos Positivos e Negativos</h3></summary>
+
+#### Pontos Positivos e Negativos
+
+| Pontos Positivos                                  | Pontos Negativos |
+|---------------------------------------------------|------------------|
+| Alternativa acessível ao eye tracking tradicional | Não simula movimentos oculares em tempo real |
+| Útil para análise de preferências visuais         | Exige interpretação cuidadosa dos dados brutos |
+| Funciona 100% no navegador                        | Pode gerar resultados enviesados sem controle |
+| Código aberto e customizável                      | Curva de aprendizado para implementar por conta própria |
 
 </details>
