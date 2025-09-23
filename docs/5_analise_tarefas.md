@@ -34,7 +34,7 @@
 
 
 <details>
-<summary><h3> 3. GOMS – Registrar Imagens</h3></summary>
+<summary><h3> 2. GOMS – Registrar Imagens</h3></summary>
 
 ## GOAL 0: Registrar imagens
 
@@ -80,3 +80,35 @@
 
 </details>
 
+<details>
+<summary><h3>3. CTT – Gerar Relatório</h3></summary>
+
+**Objetivo Geral:** Gerar um relatório completo baseado em escolhas do usuário.
+
+<img alt="CTT_GerarRelatorio.png" src="imagens/analise_tarefas/CTT_GerarRelatorio.png" width="1000"/>
+### Passos do CTT
+
+1. **Examinar relatórios disponíveis**  
+   - **Ação Cognitiva:** O usuário analisa qual relatório é mais adequado às suas necessidades.  
+   - **Entrada/Percepção:** Interface mostra relatórios possíveis.  
+   - **Saída/Decisão:** Seleção do relatório desejado.  
+
+2. **Gravar escolhas de relatório**  
+   - **Ação Cognitiva:** O usuário confirma as opções escolhidas.  
+   - **Entrada/Percepção:** Botão de confirmação ou formulário de escolhas.  
+   - **Saída/Decisão:** Sistema registra as escolhas para gerar o relatório.  
+
+3. **Processar relatório**  
+   - **Ação do Sistema:** Gerar relatório baseado nas escolhas do usuário.  
+   - **Entrada/Percepção:** Dados armazenados.  
+   - **Saída/Decisão:** Relatório(s) prontos para visualização.  
+
+4. **Visualizar relatórios**  
+   - **Ação Cognitiva:** O usuário examina os relatórios gerados.  
+   - **Entrada/Percepção:** Interface de visualização dos relatórios.  
+   - **Saída/Decisão:** O usuário decide se o relatório está correto ou se precisa refazer escolhas.  
+
+5. **Iteração**  
+   - **Descrição:** O processo permite que o usuário repita os passos de seleção e geração, caso deseje outro relatório.
+
+</details>
