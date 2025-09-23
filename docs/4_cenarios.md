@@ -1,11 +1,5 @@
 # Cenário de Análise/Problema
 
-> **_NOTE:_**: A equipe deve pensar em cenários existentes na atualidade (que causam problemas para os usuários) e que a interface prevista ajudará a resolver o problema. Cenário de Análise/Problema é uma história triste. Não descreve a solução. Descreve somente o problema.
-
-1. Cenário de Análise/Problema
-2. Questões de Refinamento
-3. Refinamento do Cenário Análise/Problema
-
 ## 1. Cenário de Análise/Problema
 A empresa de varejo de médio porte, com forte atuação online, vinha enfrentando queda na taxa de conversão no site de e-commerce, mesmo com aumento no número de visitantes. A equipe de marketing, liderada por Roberto Carvalho, já havia testado variações de layout, reposicionamento de banners e até recomendações de produtos baseadas em histórico de navegação, mas os resultados não melhoraram de forma significativa.
 Roberto se questiona se o problema está na forma como os elementos visuais do site estão distribuídos, e se os usuários realmente estão vendo os botões de compra, os produtos em destaque ou os banners promocionais. Ele percebe que as ferramentas atuais de análise — como cliques, rolagem e tempo de página — não são suficientes para entender onde o usuário realmente foca sua atenção visual.
