@@ -23,7 +23,7 @@ Carla gostaria que o sistema fosse leve e funcionasse direto no navegador, sem p
 ### Cláudia Mendes, comerciante tradicional – *"prefiro o que já conheço e não quero depender de tecnologia complexa"*
 
 
-<img alt="Persona_negativa.png" src="imagens/Personas/Persona_negativa.png" width="300"/>
+<img alt="Persona_negativa.png" src="imagens/Personas/Persona_negativa.png" width="200"/>
 
 
 Cláudia Mendes tem 59 anos, é proprietária de uma loja de roupas físicas há mais de três décadas e atende um público fiel no bairro onde está localizada. Ela tem pouca presença digital e não tem intenção de expandir seu negócio para o meio online. Usa o WhatsApp para atendimento pontual e, às vezes, posta no Instagram, mas sem regularidade.
