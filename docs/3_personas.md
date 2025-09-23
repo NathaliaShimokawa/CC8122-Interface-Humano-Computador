@@ -40,9 +40,6 @@ Ela evita qualquer ferramenta que envolva instalação, configuração ou termos
 <img alt="mapa_empatia.png" src="imagens/mapa_empatia.png" width="1100"/>
 
 
-## Persona Secundária
-
-<img alt="empatia2.jpg" src="imagens/empatia2.jpg" width="1100"/>
 
 
 ---
