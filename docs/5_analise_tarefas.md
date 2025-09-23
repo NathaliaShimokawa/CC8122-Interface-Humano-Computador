@@ -7,9 +7,10 @@
 3. CTT
 <details>
 <summary><h3>1. HTA – Configuração do Layout de Teste</h3></summary>
-
+<br>
 <img alt="HTAConfigurarLayout.drawio.png" src="imagens/analise_tarefas/HTAConfigurarLayout.drawio.png" width="1000"/>
-
+<br><br>
+   
 | Objetivo / Operação                              | Detalhes                                                                                                                                                                                                                                                                                                                                                                          |
 |--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0. Configurar layout de teste 1>2                | Input: formulário para configuração de como o teste deve aparecer visualmente; Feedback: as configurações de layout devem ser feitas para que, quando o teste de imagens com rastreamento ocular ocorrer, haja a visualização desejada; Plano: após a escolha do layout das imagens, mostrar um pequeno preview de como elas serão exibidas; Recomendação: evitar poluição visual |
@@ -84,8 +85,10 @@
 <summary><h3>3. CTT – Gerar Relatório</h3></summary>
 
 **Objetivo Geral:** Gerar um relatório completo baseado em escolhas do usuário.
+<br>
+<img alt="CTT_GerarRelatorio.png" src="imagens/analise_tarefas/CTT_GerarRelatorio.png" width="800"/>
+<br><br>
 
-<img alt="CTT_GerarRelatorio.png" src="imagens/analise_tarefas/CTT_GerarRelatorio.png" width="1000"/>
 ### Passos do CTT
 
 1. **Examinar relatórios disponíveis**  
