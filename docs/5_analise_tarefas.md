@@ -115,3 +115,49 @@
    - **Descrição:** O processo permite que o usuário repita os passos de seleção e geração, caso deseje outro relatório.
 
 </details>
+
+<details>
+<summary><h3>4. GOMS – Visualizar Testes Anteriores</h3></summary>
+
+## GOAL 0: Visualizar testes anteriores  
+
+---
+
+## GOAL 1: Acessar lista de testes realizados  
+
+### METHOD 1.A: Acessar pelo menu principal  
+*(SEL. RULE: usuário está na tela inicial)*  
+- **OP. 1.A.1:** clicar em “Testes Anteriores” no menu  
+- **OP. 1.A.2:** aguardar a página carregar com a lista de testes  
+
+### METHOD 1.B: Acessar pela tela de relatórios  
+*(SEL. RULE: usuário já está em relatórios)*  
+- **OP. 1.B.1:** clicar em aba “Testes Anteriores”  
+- **OP. 1.B.2:** visualizar lista de testes realizados  
+
+---
+
+## GOAL 2: Filtrar ou ordenar os testes  
+
+### METHOD 2.A: Filtrar por data  
+- **OP. 2.A.1:** clicar no campo “Data”  
+- **OP. 2.A.2:** selecionar período desejado  
+- **OP. 2.A.3:** aplicar filtro  
+
+### METHOD 2.B: Filtrar por número de participantes  
+- **OP. 2.B.1:** clicar no campo “Participantes”  
+- **OP. 2.B.2:** definir faixa de participantes  
+- **OP. 2.B.3:** aplicar filtro  
+
+---
+
+## GOAL 3: Visualizar estatísticas básicas de um teste  
+
+- **OP. 3.1:** clicar no teste desejado  
+- **OP. 3.2:** abrir painel com estatísticas básicas (data, nº de participantes, métricas principais)  
+
+---
+
+
+</details>
+
