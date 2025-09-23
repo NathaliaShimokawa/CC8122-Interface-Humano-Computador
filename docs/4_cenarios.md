@@ -81,6 +81,9 @@ A comunicação com o time de design nem sempre é fluida, principalmente em sit
 A partir dessa necessidade, a equipe começa a considerar o uso de ferramentas mais avançadas de análise de comportamento, como o eyetracking por webcam, para coletar dados visuais objetivos e embasar decisões com mais precisão [10].
 
 
+---
+
+
 ## 3. Cenário de Análise/Problema
 
 Cláudia Mendes, proprietária de uma loja de roupas físicas, enfrenta dificuldades para acompanhar o interesse e comportamento de seus clientes na loja. Apesar de contar com uma base fiel, ela não consegue medir quais produtos realmente chamam atenção na vitrine, quais promoções geram maior interesse ou quais itens precisam ser repostos com mais urgência. Suas tentativas de usar WhatsApp e Instagram são esporádicas e não oferecem dados concretos sobre o comportamento dos clientes. Cláudia depende exclusivamente de observação pessoal, feedback verbal e histórico de vendas, limitando sua capacidade de tomar decisões estratégicas sobre a disposição de produtos, promoções ou estoques.
@@ -100,9 +103,9 @@ Cláudia Mendes, proprietária de uma loja de roupas físicas, enfrenta dificuld
 
 ## 3. Refinamento do Cenário de Análise/Problema
 
-**Problema central:** dificuldade em entender o comportamento e preferências dos clientes na loja física
+Problema central: dificuldade em entender o comportamento e preferências dos clientes na loja física
 
-**Atores:** Cláudia Mendes (proprietária), clientes da loja, funcionários de vendas
+Atores: Cláudia Mendes (proprietária), clientes da loja, funcionários de vendas
 
 Cláudia Mendes mantém sua loja de roupas há mais de três décadas, atendendo pessoalmente os clientes e confiando em métodos tradicionais de avaliação de interesse e vendas [1]. Apesar de tentar utilizar WhatsApp e Instagram para engajar clientes, ela não possui dados concretos sobre quais produtos despertam maior atenção ou quais promoções são mais efetivas [2]. As ferramentas digitais disponíveis, que poderiam oferecer insights sobre comportamento ou preferências, são percebidas por Cláudia como complexas, invasivas ou pouco confiáveis [3].
 Como consequência, decisões estratégicas — desde a disposição da vitrine até a definição de promoções — são tomadas com base na experiência passada e intuição [4][5]. Essa falta de informações objetivas limita o potencial de crescimento da loja e aumenta a insegurança frente a mudanças no comportamento do consumidor [6]. Cláudia percebe que há soluções tecnológicas avançadas, mas sua adoção exigiria aprendizado, instalação e acompanhamento de métricas que ela não se sente capaz de gerir [7]. Dessa forma, qualquer tentativa de modernização ou análise mais precisa do comportamento dos clientes é dificultada por barreiras técnicas e resistência à tecnologia [8].
