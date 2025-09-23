@@ -103,7 +103,6 @@ A tecnologia exige calibração inicial e um ambiente controlado para resultados
 
 **Link oficial:** [Tobii Eye Tracking](https://www.tobii.com)
 
-<img alt="Tobii_eyetracking.gif" src="imagens/concorrentes/Tobii_eyetracking.gif" width="800"/>
 
 </details>
 
@@ -190,9 +189,8 @@ BubbleView é uma ferramenta desenvolvida para simular o comportamento de atenç
 
 A técnica tem sido amplamente utilizada em estudos acadêmicos e de UX como uma alternativa acessível ao eye tracking tradicional, oferecendo dados quantitativos sobre o interesse visual de forma remota e escalável.
 
-**Link oficial:** [BubbleView on MIT](https://www.mit.edu/~mital/bubbleview.html)
+**Link oficial:** [BubbleView](https://bubbleview.namwkim.org/index.html)
 
-<img alt="BubbleView_Example.gif" src="imagens/concorrentes/BubbleView_Example.gif" width="800"/>
 
 </details>
 
