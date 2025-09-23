@@ -5,9 +5,36 @@
 1. HTA
 2. GOMS
 3. CTT
+<details>
+<summary><h3>1. HTA – Configuração do Layout de Teste</h3></summary>
+
+<img alt="HTAConfigurarLayout.drawio.png" src="imagens/analise_tarefas/HTAConfigurarLayout.drawio.png" width="1000"/>
+
+| Objetivo / Operação                              | Detalhes                                                                                                                                                                                                                                                                                                                                                                          |
+|--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Configurar layout de teste 1>2                | Input: formulário para configuração de como o teste deve aparecer visualmente; Feedback: as configurações de layout devem ser feitas para que, quando o teste de imagens com rastreamento ocular ocorrer, haja a visualização desejada; Plano: após a escolha do layout das imagens, mostrar um pequeno preview de como elas serão exibidas; Recomendação: evitar poluição visual |
+| 1. Tipo de grid das imagens 1.1/1.2/1.3/1.4      | Entrada/Ação: selecionar a quantidade de imagens por vez; Feedback: grid definido; Plano: escolher uma das opções 1.1 a 1.4; Problema/Recomendação: deve mostrar uma caixa em cada uma das opções para o usuário entender melhor como será exibida (uma, duas, quatro, etc.)                                                                                                      |
+| 1.1 Uma imagem por vez                           | Entrada/Ação: clicar na opção; Feedback: layout exibido com 1 imagem; Plano: –; Problema/Recomendação: –                                                                                                                                                                                                                                                                          |
+| 1.2 Duas imagens por vez                         | Entrada/Ação: clicar na opção; Feedback: layout exibido com 2 imagens; Plano: –; Problema/Recomendação: –                                                                                                                                                                                                                                                                         |
+| 1.3 Quatro imagens por vez                       | Entrada/Ação: clicar na opção; Feedback: layout exibido com 4 imagens; Plano: –; Problema/Recomendação: –                                                                                                                                                                                                                                                                         |
+| 1.4 Seis imagens por vez                         | Entrada/Ação: clicar na opção; Feedback: layout exibido com 6 imagens; Plano: –; Problema/Recomendação: –                                                                                                                                                                                                                                                                         |
+| 2. Duração de cada imagem 2>2.1                  | Entrada/Ação: definir tempo de exibição por imagem; Feedback: tempo definido para cada imagem; Plano: após definir o tempo, confirmar no passo 2.1; Problema/Recomendação: mostrar um pequeno retorno do tempo total do teste em segundos ou minutos, se for o caso                                                                                                               |
+| 2.1 Confirmar duração em segundos de cada imagem | Entrada/Ação: confirmar valor digitado ou selecionado; Feedback: duração aplicada às imagens; Plano: –; Problema/Recomendação: –                                                                                                                                                                                                                                                  |
+
+</details>
+
+
+
+
+
+
+
+
+
+
 
 <details>
-<summary><h3> 2. GOMS – Registrar Imagens</h3></summary>
+<summary><h3> 3. GOMS – Registrar Imagens</h3></summary>
 
 ## GOAL 0: Registrar imagens
 
