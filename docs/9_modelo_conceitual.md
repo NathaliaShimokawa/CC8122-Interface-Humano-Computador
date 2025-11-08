@@ -1,4 +1,4 @@
-# 1) **Cenários de Interação**
+# 1. Cenários de Interação
 ## Cenário A: Análise de desempenho visual de campanhas pelo gestor de marketing
 Atores: Roberto Carvalho (diretor de marketing), equipe de performance.
 
@@ -22,10 +22,10 @@ Nos dias seguintes, o painel apresenta as métricas de comparação. O novo layo
 Ao final da semana, Ana reúne todos os relatórios gerados pelo sistema em um painel de acompanhamento visual, que permite monitorar o desempenho contínuo de cada campanha. Roberto acessa o painel consolidado durante a reunião de diretoria e destaca como a integração entre análise visual e otimização técnica permitiu decisões mais rápidas e baseadas em evidências.
 
 
-
 ---
 
-# 2) **Design Centrado na Comunicação**
+
+# 2. Design Centrado na Comunicação
 
 **Nome do Cenário: XXXXXX**
 
@@ -37,8 +37,16 @@ Ao final da semana, Ana reúne todos os relatórios gerados pelo sistema em um p
 |  | U:  |
 |  | D: Aqui está a informação filtrada |
 
-3) **Mapa de Objetivos**
-> **_NOTE:_**: cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação
+# 3. Mapa de Objetivos
+
+| Nível                    | Objetivo                                                                            | Descrição                                 |
+| ------------------------ | ----------------------------------------------------------------------------------- | ----------------------------------------- |
+| **Objetivo Geral**       | Melhorar a compreensão do comportamento visual de usuários em sites de e-commerce.  | Base para decisões de marketing e UX.     |
+| **Objetivo 1 (Roberto)** | Ter **dados visuais concretos** para justificar decisões estratégicas.              | Aumentar conversão e engajamento.         |
+| **Objetivo 2 (Carla)**   | **Otimizar campanhas** com base em evidências de atenção visual.                    | Reduzir tempo de análise e retrabalho.    |
+| **Objetivo 3 (Cláudia)** | **Compreender o valor da análise visual**, reduzindo barreiras à adoção.            | Introduzir o conceito de forma acessível. |
+| **Objetivo 4 (Sistema)** | Fornecer **ferramentas simples e transparentes** de coleta, análise e visualização. | Garantir privacidade e facilidade de uso. |
+
 
 4) **Esquema Conceitual de Signos**
 
