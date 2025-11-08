@@ -122,4 +122,4 @@ Parte 2 – Expectativas e percepção de valor
 Parte 3 – Melhorias e sugestões
 5. Que elementos do design poderiam melhorar a sensação de controle e transparência?
 
-6. Se fosse indicar esse sistema para alguém, o que você destacaria como principal benefício?
+6. Se fosse indicar esse sistema para alguém, o que você destacaria como principal benefício? 
