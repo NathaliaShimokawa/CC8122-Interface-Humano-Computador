@@ -83,9 +83,11 @@ Ao compartilhar a experiência com outros comerciantes locais, Cláudia reforça
 # 3. Mapa de Objetivos
 
 ## 3.1 Configuração do layout de teste
-<img alt="Persona_primaria.png" src="imagens/modelo_conceitual/Mapa_objetivo_configuracao_layout_teste.png" width="900"/>
+<img alt="Mapa_objetivo_configuracao_layout_teste.png" src="imagens/modelo_conceitual/Mapa_objetivo_configuracao_layout_teste.png" width="900"/>
 
 
+## 3.2 Registrar imagens
+<img alt="Mapa_objetivo_registrar_imagens.png" src="imagens/modelo_conceitual/Mapa_objetivo_registrar_imagens.png" width="900"/>
 
 
 # 4. Esquema Conceitual de Signos
