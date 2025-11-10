@@ -90,6 +90,13 @@ Ao compartilhar a experiência com outros comerciantes locais, Cláudia reforça
 <img alt="Mapa_objetivo_registrar_imagens.png" src="imagens/modelo_conceitual/Mapa_objetivo_registrar_imagens.png" width="900"/>
 
 
+## 3.3 Gerar relatório
+<img alt="Mapa_objetivo_gerar_relatorio.png" src="imagens/modelo_conceitual/Mapa_objetivo_gerar_relatorio.png" width="900"/>
+
+
+---
+
+
 # 4. Esquema Conceitual de Signos
 
 > **_NOTE:_**: fazer a junção das 3 tabelas abaixo em uma única
