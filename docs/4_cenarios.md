@@ -42,37 +42,37 @@ A partir desse ponto, inicia-se uma pesquisa por soluções que permitam compree
 
 ## 2. Cenário de Análise/Problema
 
-Carla Ribeiro, analista de marketing digital, é responsável por analisar o desempenho de campanhas de produtos no site da empresa. Recentemente, ela enfrentou dificuldades para entender por que uma campanha com alto investimento em mídia gerou muitos acessos ao site, mas baixa taxa de cliques nos produtos em destaque.
-A landing page da campanha foi construída com base em boas práticas de UX, segundo a equipe de design, mas os resultados frustraram as expectativas. Carla analisou dados de cliques e mapa de rolagem, mas não conseguiu identificar com clareza o que os usuários estavam vendo ou ignorando. Sem essa informação, ela teve que assumir hipóteses baseadas em tentativas anteriores, o que a deixou insegura quanto às decisões de otimização da campanha seguinte.
-A falta de dados visuais objetivos atrasa a tomada de decisões e gera dependência de reuniões com a equipe de design e desenvolvimento para testar ajustes pontuais — o que consome tempo e recursos.
+Carla Ribeiro, é uma consumidora digital que costuma fazer compras online de roupas e cosméticos. Ela valoriza praticidade, experiências simples e sites que “entendam” seu estilo sem exigir muito esforço. Em uma de suas compras recentes, Carla acessou o site de uma loja de moda que exibia uma grande variedade de produtos e recomendações personalizadas. No entanto, ela se sentiu frustrada com a quantidade de opções e a falta de clareza sobre o que realmente combinava com seu gosto.
+Apesar de o site oferecer filtros por cor, tamanho e preço, Carla considera esse processo cansativo e demorado, já que precisa ajustar vários parâmetros até encontrar algo que realmente lhe agrade. Ela gostaria que o sistema percebesse seus interesses de forma mais natural — por exemplo, observando para onde ela olha nas imagens, quais produtos atraem sua atenção e quais ela ignora rapidamente.
+Durante a navegação, Carla também se preocupou com a privacidade: o site sugeria ativar a câmera para “melhorar recomendações”, mas não explicava de forma clara como os dados seriam usados. Por falta de transparência, ela recusou o acesso. A experiência terminou sem uma compra concluída, pois Carla não se sentiu confiante nem engajada.
+Essa situação evidencia a falta de ferramentas inteligentes e transparentes que tornem o processo de compra mais fluido e personalizado. Carla quer praticidade e recomendações que realmente façam sentido para seu perfil — sem precisar responder formulários ou ajustar dezenas de filtros.
 
 
 ## 2. Questões de Refinamento
 
-1. Quais métricas Carla usa atualmente para avaliar o desempenho das campanhas?
-2. Que tipo de ferramenta de comportamento do usuário é usada atualmente?
-3. Como são feitas as análises pós-campanha? Quem participa?
-4. A equipe de marketing tem autonomia para ajustar o layout das páginas de campanha?
-5. O que acontece quando os dados disponíveis não explicam a baixa conversão?
-6. Já houve problemas semelhantes em campanhas anteriores?
-7. O tempo entre o fim da campanha e a análise dos dados é adequado?
-8. A comunicação entre marketing e design é eficiente e ágil?
-9. O que Carla gostaria de saber sobre o comportamento do usuário que hoje não consegue ver?
-10. Já foi considerada alguma ferramenta mais avançada para entender o comportamento visual (como eyetracking)?
+1. Como Carla escolhe os produtos durante suas compras online (ex.: rolagem, busca, filtros, recomendações)?
+2. Quais dificuldades ela enfrenta ao navegar por sites com muitos produtos?
+3. Que tipo de informação visual mais chama sua atenção durante a compra (cores, modelos, disposição, promoções)?
+4. O que faz Carla desistir de uma compra antes de finalizá-la?
+5. Como ela percebe a questão da privacidade em sites que pedem acesso à câmera?
+6. Que nível de explicação ela espera ao permitir o uso da câmera ou coleta de dados visuais?
+7. Em que momento da navegação ela mais sente falta de personalização?
+8. Como Carla imagina uma experiência de compra “inteligente” e prática?
+9. Quais fatores aumentariam sua confiança em usar uma tecnologia como o eyetracking via webcam?
+10. O sistema ideal deve ser integrado ao site de compras ou funcionar como uma extensão leve no navegador?1. Quais métricas Carla usa atualmente para avaliar o desempenho das campanhas?
 
 
 ## 2. Refinamento do Cenário de Análise/Problema
 
-Baixa conversão em campanha e dificuldade de identificar o que os usuários veem
+Dificuldade em encontrar produtos alinhados ao gosto pessoal e falta de personalização natural na experiência de compra online.
 
-Atores: Carla Ribeiro (analista de marketing digital), Equipe de design
+Atores: Carla Ribeiro (consumidora digital) e sistema de e-commerce.
 
-Carla Ribeiro, analista de marketing digital, coordena o desempenho de campanhas de lançamento de produtos no site da empresa. Em uma campanha recente com alto investimento em mídia paga, ela observou um alto número de acessos, mas baixíssimo engajamento com os produtos em destaque na página [1].
-Ao revisar os dados com a equipe de design, Carla utilizou as ferramentas disponíveis — Google Analytics, mapa de cliques e taxa de rolagem [2] —, mas percebeu que essas informações não indicavam se os usuários estavam de fato vendo os banners e botões prioritários, ou apenas passando por eles rapidamente.
-A análise pós-campanha foi feita em conjunto com os times de marketing e design, mas ninguém conseguiu apontar com clareza os motivos da baixa conversão [3][5]. Além disso, a equipe de marketing não tem autonomia total para modificar layouts de forma rápida [4], o que gera atrasos nas reações.
-Esse não foi um caso isolado — problemas semelhantes já haviam ocorrido em campanhas anteriores [6], e Carla frequentemente precisa tomar decisões com base em suposições. O tempo entre o fim da campanha e a conclusão da análise é de 5 a 7 dias, o que compromete a agilidade da equipe [7].
-A comunicação com o time de design nem sempre é fluida, principalmente em situações que exigem respostas rápidas [8]. Em reunião, Carla compartilha que gostaria de entender melhor o foco visual dos usuários na página, ou seja, o que de fato está chamando atenção ou sendo ignorado [9].
-A partir dessa necessidade, a equipe começa a considerar o uso de ferramentas mais avançadas de análise de comportamento, como o eyetracking por webcam, para coletar dados visuais objetivos e embasar decisões com mais precisão [10].
+Carla Ribeiro, faz compras online com frequência, especialmente de roupas e cosméticos. Em uma noite de sexta-feira, ela acessa o site de uma loja de moda para procurar um vestido para um evento, mas logo se sente sobrecarregada com a quantidade de produtos exibidos [1]. O site apresenta filtros tradicionais e uma seção de “recomendações personalizadas”, porém as sugestões parecem genéricas e pouco conectadas ao seu estilo [2].
+Carla passa vários minutos ajustando filtros e trocando páginas [3], mas ainda assim não encontra opções que realmente despertem seu interesse visual. Ela percebe que o processo é cansativo e pouco intuitivo [4]. Mesmo com boas imagens e layout agradável, o site não demonstra compreender suas preferências de forma natural — tudo depende das escolhas manuais que ela faz nos menus [5].
+Durante a navegação, o site sugere ativar a câmera “para entender melhor suas preferências visuais” [6]. Carla hesita, pois não há explicações claras sobre a coleta ou o uso dos dados [7]. Por se preocupar com privacidade, ela prefere não ativar o recurso, encerrando a sessão sem realizar a compra [8].
+Carla imagina como seria prático se o site entendesse automaticamente seu gosto a partir do olhar — observando, com seu consentimento, quais produtos chamam sua atenção e usando essas informações para exibir opções compatíveis com seu estilo [9]. Ela valoriza tecnologias que economizam tempo, simplificam a experiência e mantêm a transparência sobre o uso dos dados [10].
+Esse episódio reflete uma limitação comum em experiências de compra online: a ausência de personalização visual inteligente e de comunicação clara sobre privacidade. Um sistema de eyetracking acessível via navegador, leve e transparente, poderia oferecer uma experiência mais fluida, mostrando produtos que realmente combinam com Carla sem exigir filtros extensos ou formulários, ao mesmo tempo em que respeita sua confiança e autonomia.
 
 
 ---
