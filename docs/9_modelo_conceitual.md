@@ -42,7 +42,7 @@ Ao compartilhar a experiência com outros comerciantes locais, Cláudia reforça
 
 # 2. Design Centrado na Comunicação
 
-### Nome do Cenário: Configuração do layout de teste
+### 2.1 Configuração do layout de teste
 
 | **tópico > subtópico (diálogo)**              | **falas e signos**                                                                                                                                                                                                                                                                                  |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -54,7 +54,7 @@ Ao compartilhar a experiência com outros comerciantes locais, Cláudia reforça
 | > iniciar teste                           | U: Inicie o teste, por favor. <br> D: Teste iniciado. Acompanhe abaixo os dados de rastreamento em tempo real.                                                                                                                                                                       |
 
 
-### Nome do Cenário: Registrar imagens
+### 2.2 Registrar imagens
 
 | **tópico > subtópico (diálogo)**                      | **falas e signos**                                                                                                                                                                                                                                                                                                    |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,7 +66,7 @@ Ao compartilhar a experiência com outros comerciantes locais, Cláudia reforça
 | > salvar imagem e tags no banco de dados          | D: Deseja salvar as imagens e suas tags no sistema? <br> U: Sim, pode salvar. <br> D: Imagens registradas com sucesso no banco de dados.”                                                                                                                                |
 
 
-### Nome do Cenário: Gerar relatório
+### 2.3 Gerar relatório
 
 | **tópico > subtópico (diálogo)**      | **falas e signos**                                                                                                                                                                                                                                                                                                                                                         |
 | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -81,6 +81,10 @@ Ao compartilhar a experiência com outros comerciantes locais, Cláudia reforça
 ---
 
 # 3. Mapa de Objetivos
+
+## 3.1 Configuração do layout de teste
+<img alt="Persona_primaria.png" src="imagens/modelo_conceitual/Mapa_objetivo_configuracao_layout_teste.png" width="900"/>
+
 
 
 
