@@ -11,7 +11,7 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Eye
 ## Conhecendo o problema
 
 Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
-- **Descrição:**
+- **Descrição:** O projeto consiste no desenvolvimento de uma plataforma interativa de rastreamento ocular (eyetracking) voltada para a análise da atenção visual em campanhas publicitárias. A ferramenta utiliza uma interface gráfica intuitiva (GUI) que permite a realização de testes com propagandas pré-definidas, monitorando o movimento da íris e a interação do usuário com páginas web em tempo real.
 - **Objetivo:** O projeto tem como objetivo criar uma plataforma GUI de teste de propagandas pré-definidas e o monitoramento da íris da interação do usuário com páginas web, fornecendo métricas, utilizando tecnologias como o rastreamento ocular. 
 - **Usuário final:** Empresas que queiram estudar o gosto dos usuários e direcionar as propagandas com base nos resultados do estudo.
 - **Benefícios:** As empresas conseguem ser mais assertivas ao direcionar as propagandas dos seus produtos.
