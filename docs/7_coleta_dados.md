@@ -20,7 +20,9 @@ Os dados serão coletados de diferentes perfis de personas que representam os p�
 | **Cláudia Mendes (persona negativa)**   | Opiniões e resistências à adoção de tecnologias novas                                                              | Entender limitações de aceitação do produto e barreiras de usabilidade em perfis mais tradicionais        |
 | **Equipe de marketing e UX da empresa** | Necessidades de análise, métricas utilizadas, dificuldades com ferramentas atuais                                  | Identificar requisitos técnicos e funcionais do sistema para integração corporativa                       |
 
+
 ---
+
 
 # 2. Aspectos Éticos
 O projeto deve obrigatoriamente considerar aspectos éticos, pois se apoia em tecnologias que dependem da coleta de dados pessoais e comportamentais (olhar, expressões faciais, tempo de foco). Esses dados têm potencial de identificação e interpretação subjetiva, exigindo proteção ética e legal. Assim, o uso do TCLE garante que a coleta seja voluntária, informada e segura, respeitando a autonomia e privacidade do participante.
@@ -33,14 +35,20 @@ O projeto deve obrigatoriamente considerar aspectos éticos, pois se apoia em te
 | **Justiça**              | Todos os participantes terão o mesmo direito à informação, à recusa e à exclusão de seus dados, sem discriminação de perfil ou opinião.                                                                       |
 | **Transparência e LGPD** | O sistema deve seguir a Lei Geral de Proteção de Dados (LGPD), informando claramente como e por que os dados serão utilizados e permitindo que o usuário os exclua quando desejar.                        |
 
+
 ---
+
 
 # 3.​ Ferramentas de Coleta de Dados (três técnicas diferentes)
 ## 3.1 Questionário Estruturado Online (Google Forms)
--Técnica quantitativa 
--Aplicada a: Usuários finais (Carla, Cláudia) e Gestores (Roberto)
+-**Técnica quantitativa** 
+
+-**Aplicada a:** Usuários finais (Carla, Cláudia) e Gestores (Roberto)
+
 -**Obejtivo:** Identificar percepções, hábitos e expectativas dos usuários em relação a plataformas de análise visual e comportamento de compra online, além de avaliar nível de familiaridade com tecnologia e privacidade.
+
 -**Como aplicar:** O questionário será disponibilizado online (Google Forms) e respondido de forma anônima, com TCLE apresentado no início. Deve ser aplicado antes dos testes com o sistema para compreender o perfil e expectativas do participante.
+
 -**Instrumento:**
 Bloco 1 – Identificação e perfil
 1. Idade: 
@@ -74,10 +82,14 @@ Bloco 3 – Expectativas e privacidade
 
 
 ## 3.2 Entrevista Semiestruturada
--Técnica qualitativa 
--Aplicada a: Persona primária (Roberto Carvalho) e equipe de marketing
+-**Técnica qualitativa**
+
+-**Aplicada a:** Persona primária (Roberto Carvalho) e equipe de marketing
+
 -**Obejtivo:** Compreender necessidades estratégicas e dificuldades enfrentadas por gestores e analistas na análise de comportamento do usuário em plataformas digitais.
+
 -**Como aplicar:** Antes de iniciar, será apresentado o TCLE e reforçado que os dados serão confidenciais e usados apenas para fins de pesquisa.
+
 -**Instrumento:**
 Parte 1 – Contexto e rotina profissional
 1. Poderia descrever brevemente suas principais responsabilidades na área de marketing?
@@ -104,10 +116,14 @@ Parte 3 – Expectativas e percepções sobre o sistema
 
 
 ## 3.3 Grupo Focal
--Técnica qualitativa colaborativa 
--Aplicada a: Usuários finais do site (Carla Ribeiro e perfis semelhantes)
+-**Técnica qualitativa colaborativa** 
+
+-**Aplicada a:** Usuários finais do site (Carla Ribeiro e perfis semelhantes)
+
 -**Obejtivo:** Explorar percepções, emoções e reações dos usuários diante de protótipos ou vídeos de demonstração do sistema de eyetracking, analisando confiança, conforto e usabilidade percebida.
+
 -**Como aplicar:** Apresentar brevemente o projeto e o TCLE e mostrar um protótipo do sistema em funcionamento (demo).
+
 -**Instrumento:**
 Parte 1 – Primeiras impressões
 1. Qual foi sua primeira reação ao ver o sistema em funcionamento?
