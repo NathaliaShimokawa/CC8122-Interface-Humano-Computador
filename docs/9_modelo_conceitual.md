@@ -99,22 +99,39 @@ Ao compartilhar a experiência com outros comerciantes locais, Cláudia reforça
 
 # 4. Esquema Conceitual de Signos
 
-> **_NOTE:_**: fazer a junção das 3 tabelas abaixo em uma única
+## 4.1 Imagem
 
-| Credenciais (C) \- credenciais para acesso ao sistema |  |  |
-| :---- | :---- | :---- |
-| **signo** | **origem** | **observações** |
-| usuário | domínio |  |
-| senha | domínio |  |
+| **Signo**                                    | **Origem**        | **Observações**                                                     | **Tipo de Conteúdo**    | **Restrição sobre o Conteúdo**                                | **Valor Default**                  | **Prevenção**                                          | **Recuperação**                                           |
+| -------------------------------------------- | ----------------- | ------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------ | --------------------------------------------------------- |
+| nome da imagem                           | usuário | identifica a imagem no banco de dados                              | texto                   | deve ser único e sem caracteres especiais                    | “imagem_teste_01”                  | PA: impede salvar com nome duplicado           | RA: renomeação sugerida automaticamente         |
+| arquivo da imagem                        | usuário           | conteúdo visual a ser usado em testes                              | arquivo (.jpg, .png)    | formatos compatíveis                   | —                                  | PA: bloqueia upload de formato inválido        | CE: reenvio automático em caso de falha |
+| tags associadas                          | usuário | palavras-chave que classificam a imagem                            | lista de texto          | —                          | —                                  | — | —          |
+| categoria                                | usuário           | classificação temática        | texto                 | máx. 50 caracteres                               | —                          | PA: não permite inserir mais de 50 caracteres          | RA: não insere mais texto após 50 caracteres              |
+| data de upload / importação              | sistema           | data e hora do registro no sistema                                 | metadado                | gerada automaticamente| ata atual                        | PA: bloqueia modificação manual                | —  |
+| tamanho / resolução                      | sistema           | dimensões da imagem (px) e tamanho do arquivo (MB)                 | numérico                | —                                                             | exibe valores reais do arquivo    | AL: exibição automática                      | —          |
 
-| Credenciais (C) \- credenciais para acesso ao sistema |  |  |  |
-| :---- | :---- | :---- | :---- |
-| **signo** | **Tipo de conteúdo** | **restrição sobre conteúdo** | **valor default** |
-| usuário | texto | não pode ser nulo | — |
-| senha | texto | não pode ser nulo | — |
 
-| Credenciais (C) \- credenciais para acesso ao sistema |  |  |
-| :---- | :---- | :---- |
-| **signo** | **prevenção** | **recuperação** |
-| usuário | PP: campo obrigatório | RA |
-| senha | PP campo obrigatório  | RA |
+
+## 4.2 Relatório
+
+| **Signo**                                                               | **Origem**        | **Observações**                                                                  | **Tipo de Conteúdo**      | **Restrição sobre o Conteúdo**                | **Valor Default**                  | **Prevenção**                                                | **Recuperação**                                                 |
+| ----------------------------------------------------------------------- | ----------------- | -------------------------------------------------------------------------------- | ------------------------- | --------------------------------------------- | ---------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------- |
+| título do relatório                                                 | sistema / usuário | identifica o tipo de relatório | texto                     | deve ser descritivo e único                  | — | PA: sugestão automática de nome com base no filtro | RA: edição manual antes da exportação                 |
+| resumo descritivo                                                   | sistema           | breve descrição dos dados apresentados e metodologia                            | texto                     | máx. 500 caracteres.                          | gerado automaticamente            | AL: campo bloqueado para edição                    | RA: botão “Editar resumo”                             |
+| data de geração                                                     | sistema           | indica o momento da criação do relatório                                        | metadado                  | formato fixo (DD/MM/AAAA HH:MM)              | data/hora atual                   | PA: geração automática sem intervenção               | CE: regeneração de timestamp se falhar        |
+| tipo de relatório                                                   | usuário           | define o formato: dashboard, heatmap ou relatório textual                 | seleção                   | opções limitadas ao tipo de dados disponível | dashboard                         | AL: bloqueia tipos incompatíveis                   | RA: mostra sugestão de tipo ideal                     |
+| visualização gráfica (dashboard)                                    | sistema           | apresenta os dados em gráficos interativos                                      | visual                    | dados numéricos agregados                    | gráfico de barras e mapa de calor | AL: bloqueia interação se relatório for textual    | RA: legenda interativa                                |
+| mapa de calor (heatmap)                                             | sistema           | representa visualmente a atenção ocular                                         | imagem / visual analítico | apenas disponível se houver dados de gaze    | não exibido se não houver dados   | AL: ícone cinza se indisponível                    |  —     |
+| indicadores estatísticos (médias, tempo focado, áreas de interesse) | sistema           | síntese numérica dos resultados                                                 | numérico / texto          | calculados automaticamente                   | —                                  | PP: não editável                                   | CE: recalcula valores em caso de falha        |
+| legenda / explicação visual                                         | sistema           | explica cores e símbolos dos gráficos e heatmaps                                | texto visual   | deve estar sempre visível                    |padrão de cores institucional     | PA: botão “mostrar/ocultar legenda”                |  —                      |
+
+
+## 4.3 Teste
+
+| **Signo**                         | **Origem**        | **Observações**                                                         | **Tipo de Conteúdo** | **Restrição sobre o Conteúdo**                                 | **Valor Default**                       | **Prevenção**                                                   | **Recuperação**                                                                            |
+| --------------------------------- | ----------------- | ----------------------------------------------------------------------- | -------------------- | -------------------------------------------------------------- | --------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| título do teste               | usuário           | nome atribuído ao teste para identificação posterior                   | texto                | deve conter entre 3 e 50 caracteres | "Novo Teste"                            | PA: alerta caso o campo esteja vazio ou inválido        | RA: sugestão automática de nome com base na data/hora                            |
+| tempo de duração (por imagem) | usuário           | tempo que cada imagem será exibida durante o teste                     | numérico (segundos)  | valor mínimo 1s                                   | 5 segundos                              | PA: bloqueia valores fora do intervalo permitido.        | —            |
+| quantidade de imagens         | usuário           | define o número de imagens exibidas no teste                           | numérico inteiro     | Deve ser 1, 2, 4 ou 6                                         | 4 imagens                               | PA: impede inserção de números fora dos valores aceitos | RA: mensagem com exemplos válidos         |
+| layout do grid                | sistema   | distribuição das imagens (ex.: 2x2, 3x2)                              | categórico (lista)   | dependente da quantidade de imagens selecionadas              | automático com base na quantidade       | AL: mostra visualização do grid antes de confirmar    | RA: opção de refazer configuração sem perder dados                               |
+| preview do teste              | sistema           | mostra como o layout será exibido antes da execução real               | visual (interface)   | —                                                              | atualização dinâmica após cada mudança | AL: preview automático após salvar parâmetros         | RA: permite ajustes diretos a partir do preview                                  |
