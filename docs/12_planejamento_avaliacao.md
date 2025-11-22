@@ -1,5 +1,14 @@
 # 1) Planejamento de Usabilidade (método DECIDE)
 
+| **D** | **Definir os objetivos da avaliação**, estabelecendo o propósito do teste de usabilidade e o que se deseja analisar no sistema. O foco é compreender se a interface apoia os usuários em atingir seus objetivos dentro do contexto de uso proposto. |
+| :---: | :---- |
+| **E** | **Explorar as perguntas** que orientarão a avaliação, tornando os objetivos operacionais. Essas perguntas devem permitir identificar a qualidade de uso e possíveis problemas de interação e interface. |
+| **C** | **Escolher os métodos** de avaliação mais adequados, como a **avaliação heurística** (sem a participação direta dos usuários) e **testes com usuários** (observação da interação real). Esses métodos devem ser definidos de acordo com os objetivos e o estágio de desenvolvimento do sistema. |
+| **I** | **Identificar o passo a passo da execução**, descrevendo as tarefas, o ambiente de teste, os perfis dos participantes e os instrumentos que serão utilizados. Nessa etapa, os avaliadores preparam o ambiente, o material de apoio e realizam testes piloto. |
+| **D** | **Decidir sobre as questões éticas**, assegurando que todos os participantes estejam cientes do propósito da avaliação e consintam com sua participação. Deve-se garantir o anonimato, a privacidade e o respeito ao participante. |
+| **E** | **Examinar e produzir os resultados.** Cada avaliador deve realizar a análise individualmente, sem influência dos demais, a fim de garantir independência e imparcialidade. Após as análises individuais, os pesquisadores consolidam os achados coletivos, identificando recorrências e priorizando os problemas de usabilidade mais relevantes. A análise deve considerar aspectos qualitativos e quantitativos, produzindo um relatório com recomendações de melhoria. |
+
+---
 
 
 # 2) Lista de Instrumentos
