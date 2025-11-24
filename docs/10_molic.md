@@ -8,7 +8,7 @@
 
 # 2 Registrar imagem
 
-<img alt="Molic_registrar_imagem.png" src="imagens/molic/Molic_ registrar_imagem.png" width="800"/>
+<img alt="Molic_registrar_imagem.png" src="https://github.com/NathaliaShimokawa/CC8122-Interface-Humano-Computador/blob/main/docs/imagens/molic/Molic_registrar_imagem.png" width="800"/>
 
 
 ---
